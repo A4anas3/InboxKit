@@ -10,7 +10,7 @@ The application utilizes a **high-performance dual-database architecture** (Redi
 
 The following diagram illustrates the flow of real-time WebSocket communication, REST endpoints, authentication synchronization, and backend database persistence.
 
-```mermaid
+```mer
 graph TD
     %% Clients
     Client[React Frontend Vite] -- WebSocket /ws --> WSBroker[Spring Boot STOMP Broker]
