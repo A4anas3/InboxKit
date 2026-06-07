@@ -1,0 +1,22 @@
+# Local Environment Variables
+.env
+.env.local
+.env.development.local
+.env.production.local
+
+# Dependency Directories
+**/node_modules/
+**/target/
+**/build/
+**/bin/
+
+# IDE and Editor Files
+.idea/
+.vscode/
+*.iml
+*.iws
+*.ipr
+
+# OS Files
+.DS_Store
+Thumbs.db

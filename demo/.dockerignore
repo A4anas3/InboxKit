@@ -1,0 +1,13 @@
+target/
+.mvn/
+mvnw
+mvnw.cmd
+.idea/
+.git/
+*.iml
+Dockerfile
+.dockerignore
+HELP.md
+README.md
+.env
+.env.example
